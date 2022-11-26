@@ -1,10 +1,9 @@
 
 ## Jednoduchý DHT22 teploměr - Signalizace nízké, optimální a vysoké teploty
 
-![This is an image](https://github.com/davidvasicek/PJ_PRA/blob/main/img/Chytre_parkovaci_misto_podzemni_garaze_Forum_Nova_Karolina_zapojeni.png)
+![This is an image](https://github.com/davidvasicek/PJ_PRA/blob/main/img/Jednoduchy_DHT22_teplomer_pro_signalizaci_nicke_optimalni_a_vysoke_teploty_zapojeni.png)
 
-- Zdrojový kód projektu [GitHub]()
-- Projekt v Tinkercadu [Tinkercad]()
+- Zdrojový kód projektu [GitHub](https://github.com/davidvasicek/PJ_PRA/blob/main/source_codes/Jednoduchy_DHT22_teplomer_pro_signalizaci_nicke_optimalni_a_vysoke_teploty.ino)
 
 **Seznam součástek:**
 
