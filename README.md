@@ -1,5 +1,5 @@
 
-## Jednoduchý DHT22 teploměr - signalizace nízké, optimální a vysoké teploty
+## Jednoduchý DHT22 teploměr - Signalizace nízké, optimální a vysoké teploty
 
 ![This is an image](https://github.com/davidvasicek/PJ_PRA/blob/main/img/Chytre_parkovaci_misto_podzemni_garaze_Forum_Nova_Karolina_zapojeni.png)
 
@@ -12,6 +12,13 @@
 - RGB LED dioda (Nebo tři různé diody)
 - Rezistor 220 Ohm (pro LED)
 - Rezistor 10k Ohm (PULLUP pro DHT22)
+
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Chytré parkovací místo - Podzemní garáže Forum Nová Karolina
 
@@ -26,3 +33,25 @@
 - Ultrazvukový senzor pro měření vzdálenosti [Drátek.cz](https://dratek.cz/arduino/846-eses-ultrazvukovy-meric-vzdalenosti-hc-04-pro-jednodeskove-pocitace.html) | [Jak senzor pracuje?](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
 - RGB LED dioda
 - Rezistor 220 Ohm
+
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------------------------------
+
+## Chytré parkovací místo - Podzemní garáže Forum Nová Karolina
+
+![This is an image](https://github.com/davidvasicek/PJ_PRA/blob/main/img/Elektronicka_hraci_kostka.png)
+
+- Zdrojový kód projektu [GitHub](https://github.com/davidvasicek/PJ_PRA/blob/main/source_codes/Elektronicka_hraci_kostka.ino)
+- Projekt v Tinkercadu [Tinkercad](https://www.tinkercad.com/things/4urauemPfoa-elektronicka-hraci-kostka)
+
+**Seznam součástek:**
+
+- 7-segmentový displej [Jak senzor pracuje?](https://lastminuteengineers.com/seven-segment-arduino-tutorial/)
+- Mikrospínač (tlačítko)
+- Rezistor 10k Ohm (pro tlačítko)
+- Rezistor 220 Ohm (pro 7 segmentový displej)
+
