@@ -37,7 +37,7 @@
 
 
 
-## Chytré parkovací místo - Podzemní garáže Forum Nová Karolina
+## Elektronická hrací kostka se sedmi segmentovým displejem
 
 ![This is an image](https://github.com/davidvasicek/PJ_PRA/blob/main/img/Elektronicka_hraci_kostka.png)
 
